@@ -1,0 +1,37 @@
+[
+  {
+    "title" : "Honest Ad Test",
+    "artist" : "Honest Ad People",
+    "description" : "A test of a thing.",
+    "link" : "http://addendum.kadist.org",
+    "thumbnail" : "http://alexnathanson.com/images/Nightlight_DanPhiffer.jpg",
+    "date" : 1471905176178,
+    "works" : [
+      {
+        "image" : "http://alexnathanson.com/images/Nightlight_JasonEppink_1.jpg",
+        "title" : "Departures (excerpt)",
+        "link" : "https://vimeo.com/144390699"
+      },
+      {
+        "image" : "http://alexnathanson.com/images/Nightlight_JasonEppink_1.jpg",
+        "title" : "How Ringling treat their elephants before they perform",
+        "link" : "https://www.youtube.com/watch?v=ECspj0daAlE"
+      },
+      {
+        "image" : "http://alexnathanson.com/images/Nightlight_JasonEppink_1.jpg",
+        "title" : "In the postcard is a Beduin guard.",
+        "link" : "https://www.youtube.com/watch?v=eQoWJt5wfJ8"
+      },
+      {
+        "image" : "http://alexnathanson.com/images/Nightlight_JasonEppink_1.jpg",
+        "title" : "postcard shows Ostrich Farm in Jacksonville FL",
+        "link" : "http://danalevy.net/wp-content/uploads/2016/08/OstrichFarmFL1905-3.pdf"
+      },
+      {
+        "image" : "http://alexnathanson.com/images/Nightlight_JasonEppink_1.jpg",
+        "title" : "Tropical Hobbyland was a Seminole Village in Miami. It became a tourist attraction. Here is footage of tourist videos of the tribe’s village life in 1925",
+        "link" : "https://www.youtube.com/watch?v=7X3pKNV63KE"
+      }
+    ]
+  }
+]
